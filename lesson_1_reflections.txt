@@ -1,0 +1,1 @@
+Teste de git init e git status com reflections file
